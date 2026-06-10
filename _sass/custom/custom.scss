@@ -1,0 +1,5 @@
+// Caducus site custom styles (written by publish_site.py -- do not hand-edit)
+.cv-bar { position: relative; background: rgba(127,127,127,.15); border-radius: 4px;
+  height: 1.5rem; margin: .25rem 0; max-width: 34rem; overflow: hidden; }
+.cv-bar-fill { background: #7253ed; opacity: .35; height: 100%; border-radius: 4px; }
+.cv-bar-text { position: absolute; left: .6rem; top: 0; line-height: 1.5rem; font-size: .8rem; }

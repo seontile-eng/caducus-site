@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: "How Caducus Works — a Player's Primer"
+parent: "The Documents"
 ---
 
 # How Caducus Works — a Player's Primer
+
 *Player-facing. The ways our covenant differs from the Ars Magica baseline, in plain terms — read this when you join. The full mechanical numbers are gathered at the end; you don't need them to start. Anything here is fair game to ask the AI-GM about, any time.*
 
 This saga changes a number of things from "vanilla" Ars Magica — in how the covenant is governed, how its money and vis work, and who lives there. None of it affects how you *build* a magus (that's the Character Creation guide); it's about how the covenant *runs* once you're in it. Here's the short version of each.

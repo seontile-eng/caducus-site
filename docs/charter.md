@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: "CHARTER OF THE COVENANT OF CADUCUS"
+parent: "The Documents"
 ---
 
 # CHARTER OF THE COVENANT OF CADUCUS
+
 *Established in the Year of Our Lord, 1220*
 
 > **Player-facing copy.** This is the full Charter your magus is bound by — long and dense; you do

@@ -1,0 +1,9 @@
+<script>
+// auto dark/light (GM 2026-06-10: 'auto'): follow the OS preference via just-the-docs' setTheme.
+window.addEventListener('DOMContentLoaded', function () {
+  try {
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        && window.jtd && jtd.setTheme) { jtd.setTheme('dark'); }
+  } catch (e) { /* stay light */ }
+});
+</script>

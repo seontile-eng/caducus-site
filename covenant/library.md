@@ -1,27 +1,35 @@
 ---
-layout: page
+layout: default
 title: "Library"
+nav_order: 4
+parent: "The Covenant"
 ---
 
-| Title | Type | Subject | Language | Level | Quality | Available |
-|---|---|---|---|---|---|---|
-| Tabula Rogeriana | Summa | Area Lore: Any Region | Arabic | 2 | 15 | yes |
-| Deeds of the Bishops of Hamburg | Summa | Area Lore: Northern Europe | Latin | 4 | 15 | yes |
-| Virtuous Potentacy: Sophia to Phron | Summa | Artes Liberales | Latin | 5 | 17 | yes |
-| Echoes of the Forest | Summa | Faerie Lore | Latin | 4 | 11 | yes |
-| Doctrinale Puerorum | Summa | Latin | Latin | 5 | 20 | yes |
-| The Foundations of Arcane Mastery | Summa | Magic Theory | Latin | 6 | 15 | yes |
-| Root and Pillar: The Elm of Hermes | Summa | Order of Hermes Lore | Latin | 4 | 9 | yes |
-| Bestiary Arcana | Summa | An | Latin | 14 | 12 | yes |
-| A Deep Inquiry | Summa | Aq | Latin | 11 | 13 | yes |
-| Whispers of the Sky | Summa | Au | Latin | 14 | 14 | yes |
-| Betterment: An Invigoration | Summa | Cr | Latin | 12 | 14 | yes |
-| Verdure: The Unveiling | Summa | He | Latin | 10 | 10 | yes |
-| Caressing Flame | Summa | Ig | Latin | 8 | 17 | yes |
-| Reflections on Seeming | Summa | Im | Latin | 11 | 21 | yes |
-| Dreamscapes and Mindscapes | Summa | Me | Latin | 6 | 19 | yes |
-| Unmaking the Bed | Summa | Pe | Latin | 10 | 13 | yes |
-| Seize It: Order from Chaos | Summa | Re | Latin | 6 | 18 | yes |
-| Earth's Embrace and Escape Therefrom | Summa | Te | Latin | 8 | 14 | yes |
-| Essentials of Quintessence | Summa | Vi | Latin | 9 | 19 | yes |
+# Library
 
+*Spring 1220 — the founding year*
+
+What you can study this season. A **summa** teaches from scratch up to its Level; a **tractatus** gives any student its Quality in experience, once.
+
+### Arts — summae
+- **An** — *Bestiary Arcana*, Level 14, Quality 12 (Latin)
+- **Aq** — *A Deep Inquiry*, Level 11, Quality 13 (Latin)
+- **Au** — *Whispers of the Sky*, Level 14, Quality 14 (Latin)
+- **Cr** — *Betterment: An Invigoration*, Level 12, Quality 14 (Latin)
+- **He** — *Verdure: The Unveiling*, Level 10, Quality 10 (Latin)
+- **Ig** — *Caressing Flame*, Level 8, Quality 17 (Latin)
+- **Im** — *Reflections on Seeming*, Level 11, Quality 21 (Latin)
+- **Me** — *Dreamscapes and Mindscapes*, Level 6, Quality 19 (Latin)
+- **Pe** — *Unmaking the Bed*, Level 10, Quality 13 (Latin)
+- **Re** — *Seize It: Order from Chaos*, Level 6, Quality 18 (Latin)
+- **Te** — *Earth's Embrace and Escape Therefrom*, Level 8, Quality 14 (Latin)
+- **Vi** — *Essentials of Quintessence*, Level 9, Quality 19 (Latin)
+
+### Abilities
+- **Area Lore: Any Region** — *Tabula Rogeriana*, Level 2, Quality 15 (Arabic)
+- **Area Lore: Northern Europe** — *Deeds of the Bishops of Hamburg*, Level 4, Quality 15 (Latin)
+- **Artes Liberales** — *Virtuous Potentacy: Sophia to Phron*, Level 5, Quality 17 (Latin)
+- **Faerie Lore** — *Echoes of the Forest*, Level 4, Quality 11 (Latin)
+- **Latin** — *Doctrinale Puerorum*, Level 5, Quality 20 (Latin)
+- **Magic Theory** — *The Foundations of Arcane Mastery*, Level 6, Quality 15 (Latin)
+- **Order of Hermes Lore** — *Root and Pillar: The Elm of Hermes*, Level 4, Quality 9 (Latin)

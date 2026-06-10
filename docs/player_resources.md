@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Caducus — Player Resources & Quick Reference"
+parent: "The Documents"
 ---
 
 # Caducus — Player Resources & Quick Reference
+
 *Source for the PINNED "Player Resources" forum post (separate from the Chronicle/Status post). Player-facing. The AI maintains this file; the GM posts/edits it on the forum and pins it. When something here changes, the post is refreshed (PACK_PlayerView reference-surface routine). Replace each `<…>` with the live forum/Drive link when posting.*
 
 Welcome to Caducus. Everything you need is gathered here. **You can always just ask the AI-GM** anything — about the rules, the setting, the politics, or how any of this works; this post is for when you'd rather look it up.

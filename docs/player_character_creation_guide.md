@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Character Creation — Covenant of Caducus"
+parent: "The Documents"
 ---
 
 # Character Creation — Covenant of Caducus
+
 *Player-facing guide. How to create a character for the saga.*
 
 This page instructs players in how to create characters for the saga.

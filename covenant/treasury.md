@@ -1,9 +1,40 @@
 ---
-layout: page
-title: "Costs & Savings"
+layout: default
+title: "Treasury & Costs"
+nav_order: 2
+parent: "The Covenant"
 ---
 
-| Who | Trade | Saves on | Saving (£/yr) | At cap? |
+# Treasury & Costs
+
+*Spring 1220 — the founding year*
+
+<span class="label label-green">TREASURY: SOUND</span>
+
+The treasury holds **£561.64**. The covenant's net result is
+**£+43.63 per season**; at that rate the stores last **indefinitely (we run a surplus)**.
+
+### Lately in the books
+- **Spring 1220** — natural source: +5 pawns
+- **Spring 1220** — natural source: +5 pawns
+- **Spring 1220** — natural source: +3 pawns
+- **Spring 1220** — natural source: +4 pawns
+- **Spring 1220** — natural source: +3 pawns
+- **Spring 1220** — tribute: +10 pawns
+- **Autumn 1229** — subsidy: £+20
+- **Autumn 1229** — subsidy: £+20
+- **Autumn 1229** — subsidy: £+20
+- **Spring 1229** — subsidy: £+20
+- **Spring 1229** — subsidy: £+20
+- **Spring 1229** — subsidy: £+20
+- **Autumn 1228** — subsidy: £+20
+- **Autumn 1228** — subsidy: £+20
+- **Autumn 1228** — subsidy: £+20
+
+### Who saves us money
+The covenfolk's trades offset the covenant's running costs (each trade up to its cap):
+
+| Who | Trade | Saves on | £/year | At cap? |
 |---|---|---|---|---|
 | Väinö | menial labour | provisions | 0.7 | no |
 | Ilmatar | menial labour | provisions | 0.7 | no |
