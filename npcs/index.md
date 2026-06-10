@@ -11,11 +11,9 @@ has_children: true
 
 The people (and powers) of the saga, as the covenant knows them. What is written here is common knowledge or honest reputation — the rest you learn in play.
 
-- [Alehtta](alehtta.html)
 - [Aurelius](aurelius.html)
 - [Gregorius](gregorius.html)
 - [Helena](helena.html)
 - [Ilmatar](ilmatar.html)
 - [Mieli](mieli.html)
 - [Rufus](rufus.html)
-- [Vigilius](vigilius.html)
