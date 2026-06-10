@@ -13,7 +13,7 @@ Welcome to Caducus. Everything you need is gathered here. **You can always just 
 - **Character Creation guide** — how to build your magus. → `<link>`
 - **How Caducus Works (Player Primer)** — the ways this covenant differs from baseline Ars Magica (governance, the year, money & vis, the people). **Read this when you join.** → `<link>`
 - **The Charter** — the full letter of the law. Long and dense; no need to read it through — ask the AI what it says about anything. → `<link>`
-- **Player View workbook** — the live numbers: treasury, vis, offices & budgets, library, roster, and the "Plan Your Season" grid you fill in. → `<link>`
+- **The covenant website** — the live numbers: treasury, vis, offices & budgets, library, laboratories, roster, plus all the documents above and the character pages, regenerated automatically. → `<site URL — pending>` *(Season planning happens on the forum: the **Covenant Planning** board.)*
 - **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → `<link>`
 
 ## Quick reference — the two that trip people up
