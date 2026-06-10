@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Glossary"
-nav_order: 6
+nav_order: 8
 ---
 
 # Glossary
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 **Art** — one of the fifteen kinds of Hermetic magic (five Techniques like *Creo*, ten Forms like *Ignem*). Scores grow with study.
 

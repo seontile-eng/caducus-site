@@ -7,7 +7,7 @@ parent: "The Covenant"
 
 # Vis & Magic
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 <span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED !</span>
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "The Characters"
+title: "Player Characters"
 nav_order: 4
 ---
 
-# The Characters
+# Player Characters
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 *(The first magi are still being created — watch this page.)*

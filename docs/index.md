@@ -7,7 +7,7 @@ has_children: true
 
 # The Documents
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 The covenant's papers, in reading order for a newcomer:
 

@@ -6,9 +6,9 @@ nav_order: 1
 
 # Home
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
-The covenant numbers **41 souls** on the headland at Turku. The treasury would carry us **indefinitely at the current surplus** at the current burn. The vis stores hold **30 pawns** and the Strategic Reserve is met. The **Aegis of the Hearth has not yet been raised** this year.
+**The year 1220 is the covenant's first.** The covenant numbers **41 souls** on the headland at Turku. The treasury would carry us **indefinitely — we run a surplus**. The vis stores hold **30 pawns** and the Strategic Reserve is met. The **Aegis of the Hearth has not yet been raised** this year.
 
 <span class="label label-green">TREASURY: SOUND</span> <span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED !</span> <span class="label label-blue">OFFICES: 5 OPEN</span>
 
@@ -26,7 +26,7 @@ The covenant numbers **41 souls** on the headland at Turku. The treasury would c
 <div class="cv-bar"><div class="cv-bar-fill" style="width:30%"></div><span class="cv-bar-text">Te — 3 pawns</span></div>
 <div class="cv-bar"><div class="cv-bar-fill" style="width:100%"></div><span class="cv-bar-text">Vi — 10 pawns</span></div>
 
-### Lately at the covenant
+### The year 1220 so far
 - **Spring 1220** — natural source: +5 pawns
 - **Spring 1220** — natural source: +5 pawns
 - **Spring 1220** — natural source: +3 pawns
@@ -36,10 +36,11 @@ The covenant numbers **41 souls** on the headland at Turku. The treasury would c
 - **Autumn 1229** — subsidy: £+20
 - **Autumn 1229** — subsidy: £+20
 
-### The season's rhythm
-- the thaw & spring sowing
-- the Oculus ship (Early Spring)
-- the Aegis recast
+### The year's rhythm
+- **Spring**: the thaw & spring sowing, the Oculus ship (Early Spring)
+- **Summer**: Ukon vakat / midsummer, the herring run
+- **Autumn**: the kekri harvest-feast, the Waddenzee ship (Early Autumn)
+- **Winter**: the freeze & the winter-want, the saints' days at Ravattula
 
 ---
 **Play happens on [the forum](https://caducus.discourse.group)** — this site is the covenant's

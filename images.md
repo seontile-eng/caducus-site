@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Maps & Faces"
-nav_order: 5
+nav_order: 7
 ---
 
 # Maps & Faces
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 #### ENT Caducus  grounds  v27
 ![ENT_Caducus__grounds__v27](images/covenant/ENT_Caducus__grounds__v27.jpg)

@@ -7,7 +7,7 @@ parent: "The Covenant"
 
 # Library
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 What you can study this season. A **summa** teaches from scratch up to its Level; a **tractatus** gives any student its Quality in experience, once.
 

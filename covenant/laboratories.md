@@ -7,7 +7,7 @@ parent: "The Covenant"
 
 # Laboratories
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 ### Aurelius — Aurelius's Laboratory
 a sound, unremarkable laboratory (size 0, refinement 0).

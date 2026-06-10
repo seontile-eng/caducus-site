@@ -7,7 +7,7 @@ parent: "The Covenant"
 
 # Treasury & Costs
 
-*Spring 1220 — the founding year*
+*The Year 1220 — the founding year (now Spring)*
 
 <span class="label label-green">TREASURY: SOUND</span>
 
