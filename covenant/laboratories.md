@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Laboratories"
-nav_order: 5
+nav_order: 6
 parent: "The Covenant"
 ---
 
 # Laboratories
 
 *The Year 1220 — the founding year*
+
+*(Labs shown against the founding magi's open seats — they take their owners' names as players join.)*
 
 ### Aurelius — Aurelius's Laboratory
 a sound, unremarkable laboratory (size 0, refinement 0).

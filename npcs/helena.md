@@ -6,7 +6,7 @@ parent: "NPCs"
 
 # Helena
 
-![A tall, broad-shouldered, grave young woman, frontal, hands folded, in warm ochre-green scholar's robes with a plain neckline, a lectern behind her; matte Gallen-Kallela portrait.](../images/entities/ENT_Helena__portrait__v3.jpg)
+![Helena, a portrait](../images/entities/ENT_Helena__portrait__v3.jpg)
 
 *A tall, broad-shouldered, grave young woman, frontal, hands folded, in warm ochre-green scholar's robes with a plain neckline, a lectern behind her; matte Gallen-Kallela portrait.*
 

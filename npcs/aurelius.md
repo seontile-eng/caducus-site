@@ -6,7 +6,7 @@ parent: "NPCs"
 
 # Aurelius
 
-![Lean scholar-magus who looks ~30, tired and disheveled, short brown hair, piercing green eyes, caught mid-speech and gesturing; indigo hooded wool robe, a silver medallion on a chain with an obscure symbol. Gallen-Kallela matte oil portrait.](../images/entities/ENT_Aurelius__portrait__v1.jpg)
+![Aurelius, a portrait](../images/entities/ENT_Aurelius__portrait__v1.jpg)
 
 *Lean scholar-magus who looks ~30, tired and disheveled, short brown hair, piercing green eyes, caught mid-speech and gesturing; indigo hooded wool robe, a silver medallion on a chain with an obscure symbol. Gallen-Kallela matte oil portrait.*
 

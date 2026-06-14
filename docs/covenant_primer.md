@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "How Caducus Works — a Player's Primer"
-parent: "The Documents"
+nav_order: 2
+parent: "Start Here"
 ---
 
 # How Caducus Works — a Player's Primer

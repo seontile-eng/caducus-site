@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "CHARTER OF THE COVENANT OF CADUCUS"
-parent: "The Documents"
+nav_order: 3
+parent: "Reference"
 ---
 
 # CHARTER OF THE COVENANT OF CADUCUS

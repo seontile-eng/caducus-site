@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "The Founding Letters of Caducus"
-parent: "The Documents"
+nav_order: 4
+parent: "Reference"
 ---
 
 # The Founding Letters of Caducus

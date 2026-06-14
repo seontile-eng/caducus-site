@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Character Creation — Covenant of Caducus"
-parent: "The Documents"
+nav_order: 3
+parent: "Start Here"
 ---
 
 # Character Creation — Covenant of Caducus

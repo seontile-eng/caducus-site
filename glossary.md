@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Glossary"
-nav_order: 8
+nav_order: 2
+parent: "Reference"
 ---
 
 # Glossary
@@ -37,4 +38,28 @@ nav_order: 8
 **Vis** — raw magical power, condensed in physical things -- the saga's most precious resource.
 
 **The Order of Hermes** — the society of magi to which we all belong; its law is the Code.
+
+**Office** — one of six covenant duties (Forehead/Heart/Stomach/Groin/Hand/Foot), each a domain of responsibility with a budget. See [Offices & Service](covenant/offices.html).
+
+**Pontifex** — the covenant's head (Aurelius) — sits above the six offices, holds the veto, approves salaries. Not himself an Officer.
+
+**Council** — the magi meeting where the budget is approved and reallocated; the Spring Council (played in character) opens each new year.
+
+**Guest vs Member** — a Guest magus owes two service seasons a year and can't vote or formally hold office; a Member owes one and votes. The founding cohort starts as Guests, becoming Members in the second year.
+
+**Project** — an office's funded undertaking for the year (a building, a vis source, an expedition), proposed against that office's budget and approved at Council.
+
+**Discretionary budget** — what an office may spend on projects — its allocation minus the running costs of the covenfolk it commands.
+
+**Proportion lock** — the split of resources between offices is fixed a year ahead and can't change for the year it governs (Charter §6.9). You plan against known shares.
+
+**Distraction** — a short adventure (up to a month in the fiction). It costs NO season-slot — you keep your planned lab/study result. Only a story longer than a month eats a slot. See [Plan Your Season](covenant/plan.html).
+
+**Oculus' Offer** — the founding gift: a year of extra advancement for the founding magi, after which they age and advance normally.
+
+**Peregrinator** — a wandering magus; the founding cohort are Rhine peregrinators who came to settle Caducus.
+
+**Redcap** — a messenger of House Mercere who carries the Order's mail between covenants; ours ride the supply ships.
+
+**The supply ships** — the Rhine covenants' fleets that reach Caducus twice a year — Oculus in early Spring, Waddenzee in early Autumn — bringing the subsidy, mail, and trade.
 

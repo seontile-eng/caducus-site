@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Caducus — Player Resources & Quick Reference"
-parent: "The Documents"
+nav_order: 1
+parent: "Reference"
 ---
 
 # Caducus — Player Resources & Quick Reference

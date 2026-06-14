@@ -1,16 +1,20 @@
 ---
 layout: default
 title: "Home"
-nav_order: 1
+nav_order: 0
 ---
 
 # Home
 
 *The Year 1220 — the founding year*
 
+**New here?** Start with **[How the saga works →](start-here.html)** — the forum, the storyguide, and making your magus.
+
+**Already playing?** **[Plan your year →](covenant/plan.html)** · **[Offices & budget →](covenant/offices.html)** — the covenant's live state is below.
+
 **The year 1220 is the covenant's first.** The covenant numbers **41 souls** on the headland at Turku. The treasury would carry us **indefinitely — we run a surplus**. The vis stores are projected to hold **50 pawns** by year-end, the Strategic Reserve met. The **Aegis of the Hearth has not yet been raised** this year.
 
-<span class="label label-green">TREASURY: SOUND</span> <span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED !</span> <span class="label label-blue">OFFICES: 6 OPEN</span>
+<span class="label label-green">TREASURY: SOUND</span> <span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED</span> <span class="label label-blue">OFFICES: 6 OPEN</span>
 
 | | |
 |---|---|

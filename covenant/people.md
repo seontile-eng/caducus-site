@@ -10,6 +10,8 @@ parent: "The Covenant"
 *The Year 1220 — the founding year*
 
 ### The magi
+*(The founding magi are still being created — these are the open seats; names and faces arrive as players join. Watch [Player Characters](../players/index.html).)*
+
 - **Aurelius** — House Bonisagus; holds the Pontifex; Middle
 - **Magus 1** — Young
 - **Magus 2** — Young

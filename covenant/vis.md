@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Vis & Magic"
-nav_order: 3
+nav_order: 4
 parent: "The Covenant"
 ---
 
@@ -9,7 +9,7 @@ parent: "The Covenant"
 
 *The Year 1220 — the founding year*
 
-<span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED !</span>
+<span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED</span>
 
 **Every number on this page is a projection for the END of 1220** — what the covenant will hold once the year's
 currently-known sources are harvested and its planned costs are paid (chiefly the Aegis). It is not today's
