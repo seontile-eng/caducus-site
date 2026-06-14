@@ -26,6 +26,22 @@ Welcome to Caducus. Everything you need is gathered here. **You can always just 
 
 **Supply ships.** Two visits a year: **Oculus in early Spring** (through Falke's Baltic-thaw ritual at Arkona) and **Waddenzee in early Autumn** (before the ice closes again). Redcaps ride along. Foot oversees them. The subsidies arrive as **pre-arranged concrete goods** (cloth, iron, salt, grain, tools — requested in advance through Aurelius's twinned quills) plus any £ remainder in **silver coin**. Trade window — Ursula queues purchases against the next visit.
 
+## Open play, private messages — what's hidden and what isn't (the visibility guideline)
+
+**The default is OPEN.** All play happens in the open categories, and everyone may read everything — including scenes your character isn't in. Reading each other's strands is half the pleasure of play-by-post, and it keeps you warm in stories you'll join later. The golden rule that makes this work:
+
+> **What you know and what your character knows are different things — and the system polices the second, not you.** Post your character's sneaking, scheming, and private discoveries openly. Other players will read them; other *characters* won't know them (the engine tracks who knows what, scene by scene). You never need secrecy to protect the fiction — only discipline, and the discipline is mostly automated.
+
+**So is there ever a reason to go private? A few, and only these:**
+1. **Admin and personal matters** — absences, feedback, recruitment, anything about a *person* rather than a character → **PM the GM.** Always appropriate, never logged into play.
+2. **Player-elected character secrecy** — if the *reveal itself* is the payoff you're playing toward (a Dark Secret you want to land on the other *players*, not just their characters), you may opt to run that thread privately with the GM. Register it: tell the GM it's an elected-secret thread, and accept that **it surfaces in the open eventually** — hidden play is a loan against a public payoff, not a vault.
+3. **A question whose answer would spoil an open scene** — rare; ask by PM and the GM will answer there or fold it into the scene.
+4. **Intrigue against another player's character** — only ever with that player's **out-of-character consent first.** PvP secrecy is a consent question before it is a mechanics question.
+
+**What is never hidden:** dice (all rolls are open), character sheets, rules questions and answers (open benefit everyone), and in-character actions in shared scenes — *even sneaky ones* (see the golden rule).
+
+**Practical notes:** a Discourse PM is a full thread — titled, threaded, multiple participants, people can be added later — so a long-running private strand works fine as one PM topic. **Two inboxes, two purposes:** PM **ArsBot** for the assistant — `!chat` starts a live session on the spot; anything else gets answered in the morning round. PM **Seon** (the GM) for human matters — absences, feedback, anything personal; the assistant cannot read that inbox. **The quiet word:** sometimes ArsBot will PM you mid-scene — "Quiet word — <scene>, post #N" — with something only *your* character noticed (a sharp Awareness roll, a Lore recognition). That information is yours: bring it into the open scene through your character's words and actions however you like. Reply to the PM if you want to ask follow-ups (it's the assistant's inbox — `!chat` for a live exchange).
+
 ## Also worth knowing (full detail in the Primer)
 - **Offices:** the Pontifex (Aurelius) + six body-part officers (Forehead/Heart/Stomach/Groin/Hand/Foot). You'll be offered one early; running its yearly project is part of play.
 - **Service:** Members owe 1 season/year, Guests 2. You start as a Guest and become a Member at the Spring 1221 Council.

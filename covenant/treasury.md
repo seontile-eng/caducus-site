@@ -11,25 +11,22 @@ parent: "The Covenant"
 
 <span class="label label-green">TREASURY: SOUND</span>
 
-The treasury holds **£561.64**. The covenant's net result is
-**£+43.63 per season**; at that rate the stores last **indefinitely (we run a surplus)**.
+The treasury holds **£54.53**. The covenant's net result is
+**£+54.53 per year**; at that rate the stores last **indefinitely (we run a surplus)**.
 
 ### Lately in the books
+- **Autumn 1220** — subsidy: £+20
+- **Autumn 1220** — subsidy: £+20
+- **Autumn 1220** — subsidy: £+20
 - **Spring 1220** — natural source: +5 pawns
 - **Spring 1220** — natural source: +5 pawns
 - **Spring 1220** — natural source: +3 pawns
 - **Spring 1220** — natural source: +4 pawns
 - **Spring 1220** — natural source: +3 pawns
 - **Spring 1220** — tribute: +10 pawns
-- **Autumn 1229** — subsidy: £+20
-- **Autumn 1229** — subsidy: £+20
-- **Autumn 1229** — subsidy: £+20
-- **Spring 1229** — subsidy: £+20
-- **Spring 1229** — subsidy: £+20
-- **Spring 1229** — subsidy: £+20
-- **Autumn 1228** — subsidy: £+20
-- **Autumn 1228** — subsidy: £+20
-- **Autumn 1228** — subsidy: £+20
+- **Spring 1220** — subsidy: £+20
+- **Spring 1220** — subsidy: £+20
+- **Spring 1220** — subsidy: £+20
 
 ### Who saves us money
 The covenfolk's trades offset the covenant's running costs (each trade up to its cap):
