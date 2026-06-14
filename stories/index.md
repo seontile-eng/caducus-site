@@ -6,7 +6,7 @@ nav_order: 6
 
 # Stories
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
 What has happened, year by year — as the covenant would tell it.
 

@@ -6,9 +6,9 @@ nav_order: 1
 
 # Home
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
-**The year 1220 is the covenant's first.** The covenant numbers **41 souls** on the headland at Turku. The treasury would carry us **indefinitely — we run a surplus**. The vis stores hold **30 pawns** and the Strategic Reserve is met. The **Aegis of the Hearth has not yet been raised** this year.
+**The year 1220 is the covenant's first.** The covenant numbers **41 souls** on the headland at Turku. The treasury would carry us **indefinitely — we run a surplus**. The vis stores are projected to hold **50 pawns** by year-end, the Strategic Reserve met. The **Aegis of the Hearth has not yet been raised** this year.
 
 <span class="label label-green">TREASURY: SOUND</span> <span class="label label-green">VIS RESERVE: MET</span> <span class="label label-yellow">AEGIS: NOT RAISED !</span> <span class="label label-blue">OFFICES: 6 OPEN</span>
 
@@ -16,10 +16,7 @@ nav_order: 1
 |---|---|
 | Treasury (end of 1220) | £54.53 |
 | People | 41 (8 magi · 1 companions · 30 covenfolk · 2 apprentices) |
-| Vis | 30 pawns across 6 Arts |
-
-### The vis stores
-30 pawns — Animál 5 · Aquam 4 · Creo 5 · Rego 3 · Terram 3 · Vim 10. Strategic Reserve **met**. ([full breakdown + the vis economy →](vis.html))
+| Vis (end of 1220) | 50 pawns across 6 Arts (projected) |
 
 ### The year 1220 so far
 - **Autumn 1220** — Durenmar Autumn subsidy: £+20

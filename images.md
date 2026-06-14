@@ -6,7 +6,7 @@ nav_order: 7
 
 # Maps
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
 #### caducus grounds  v1
 ![caducus_grounds__v1](images/maps/caducus_grounds__v1.png)

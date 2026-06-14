@@ -7,13 +7,13 @@ parent: "The Covenant"
 
 # Treasury & Costs
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
 <span class="label label-green">TREASURY: SOUND</span>
 
-At the close of **1220**, after the year's income and running costs, the treasury stands at **£54.53** — and at this rate it lasts **indefinitely (we run a surplus)**.
+**Projected to the close of 1220** — assuming the year's expected income and currently-known costs — the treasury stands at **£54.53**, and at this rate it lasts **indefinitely (we run a surplus)**.
 
-### The year's money (1220)
+### The year's money (projected, end of 1220)
 <div class="cv-bar"><div class="cv-bar-fill" style="width:100%"></div><span class="cv-bar-text">Income (year): £120.00</span></div>
 <div class="cv-bar"><div class="cv-bar-fill" style="width:55%"></div><span class="cv-bar-text">Spending (year): £65.47</span></div>
 <div class="cv-bar"><div class="cv-bar-fill" style="width:45%"></div><span class="cv-bar-text">Net (year): +£54.53</span></div>

@@ -7,7 +7,7 @@ parent: "The Covenant"
 
 # People
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
 ### The magi
 - **Aurelius** — House Bonisagus; holds the Pontifex; Middle

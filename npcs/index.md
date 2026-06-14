@@ -7,7 +7,7 @@ has_children: true
 
 # NPCs
 
-*The Year 1220 — the founding year (now Spring)*
+*The Year 1220 — the founding year*
 
 The people (and powers) of the saga, as the covenant knows them. What is written here is common knowledge or honest reputation — the rest you learn in play.
 
