@@ -22,9 +22,9 @@ You build your magus **on the forum, with the storyguide** — there's no form t
 - **let the storyguide build it** from your concept and a few preferences, then review and adjust;
 - **step through it together**, one decision at a time (the usual way) — concept, then Virtues & Flaws, House, Abilities, Characteristics, Arts & spells;
 - **drive it yourself** and have the storyguide advise and check as you go; or
-- **build it entirely on your own** in the [character-sheet template](https://docs.google.com/spreadsheets/d/1cTyvmcxa04RrEdgrFbdKKZYCS6EemZoOANiJMwcyOr0/edit) (File → Make a Copy first) and bring it to be checked.
+- **design the whole thing yourself and hand it over** — work it out however you like (on paper, in your head, in any tool), then post the finished build: concept, Virtues & Flaws, Characteristics, your Abilities and their scores, the fifteen Arts, spells, House, age, and backstory. The storyguide will give you a short checklist to fill in if you'd like one. **No spreadsheet to wrestle** — you just tell it what you chose.
 
-Either way the storyguide does the bookkeeping — the arithmetic, the rules-validation, and finalizing the sheet — so you can spend your attention on the *character*. New to the forum and the storyguide? Read **[How We Play](how_we_play.html)** first.
+Either way **the storyguide owns the bookkeeping** — it turns your choices into the official character sheet, does the arithmetic, runs the rules-check, and tells you what (if anything) needs fixing. You never maintain a sheet yourself. New to the forum and the storyguide? Read **[How We Play](how_we_play.html)** first.
 
 The rest of this guide explains the **choices** you'll make and the saga's limits; work through them in whatever order you like.
 
