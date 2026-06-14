@@ -14,27 +14,22 @@ nav_order: 1
 
 | | |
 |---|---|
-| Treasury | £54.53 |
+| Treasury (end of 1220) | £54.53 |
 | People | 41 (8 magi · 1 companions · 30 covenfolk · 2 apprentices) |
 | Vis | 30 pawns across 6 Arts |
 
 ### The vis stores
-<div class="cv-bar"><div class="cv-bar-fill" style="width:50%"></div><span class="cv-bar-text">An — 5 pawns</span></div>
-<div class="cv-bar"><div class="cv-bar-fill" style="width:40%"></div><span class="cv-bar-text">Aq — 4 pawns</span></div>
-<div class="cv-bar"><div class="cv-bar-fill" style="width:50%"></div><span class="cv-bar-text">Cr — 5 pawns</span></div>
-<div class="cv-bar"><div class="cv-bar-fill" style="width:30%"></div><span class="cv-bar-text">Re — 3 pawns</span></div>
-<div class="cv-bar"><div class="cv-bar-fill" style="width:30%"></div><span class="cv-bar-text">Te — 3 pawns</span></div>
-<div class="cv-bar"><div class="cv-bar-fill" style="width:100%"></div><span class="cv-bar-text">Vi — 10 pawns</span></div>
+30 pawns — Animál 5 · Aquam 4 · Creo 5 · Rego 3 · Terram 3 · Vim 10. Strategic Reserve **met**. ([full breakdown + the vis economy →](vis.html))
 
 ### The year 1220 so far
-- **Autumn 1220** — subsidy: £+20
-- **Autumn 1220** — subsidy: £+20
-- **Autumn 1220** — subsidy: £+20
-- **Spring 1220** — natural source: +5 pawns
-- **Spring 1220** — natural source: +5 pawns
-- **Spring 1220** — natural source: +3 pawns
-- **Spring 1220** — natural source: +4 pawns
-- **Spring 1220** — natural source: +3 pawns
+- **Autumn 1220** — Durenmar Autumn subsidy: £+20
+- **Autumn 1220** — Fengheld Autumn subsidy: £+20
+- **Autumn 1220** — Oculus Autumn subsidy: £+20
+- **Spring 1220** — Skylark Egg (on the Oddstone): +5 pawns
+- **Spring 1220** — Skylark Egg (on the Oddstone): +5 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +3 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +4 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +3 pawns
 
 ### The year's rhythm
 - **Spring**: the thaw & spring sowing, the Oculus ship (Early Spring)

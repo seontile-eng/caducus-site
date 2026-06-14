@@ -11,22 +11,34 @@ parent: "The Covenant"
 
 <span class="label label-green">TREASURY: SOUND</span>
 
-The treasury holds **£54.53**. The covenant's net result is
-**£+54.53 per year**; at that rate the stores last **indefinitely (we run a surplus)**.
+At the close of **1220**, after the year's income and running costs, the treasury stands at **£54.53** — and at this rate it lasts **indefinitely (we run a surplus)**.
+
+### The year's money (1220)
+<div class="cv-bar"><div class="cv-bar-fill" style="width:100%"></div><span class="cv-bar-text">Income (year): £120.00</span></div>
+<div class="cv-bar"><div class="cv-bar-fill" style="width:55%"></div><span class="cv-bar-text">Spending (year): £65.47</span></div>
+<div class="cv-bar"><div class="cv-bar-fill" style="width:45%"></div><span class="cv-bar-text">Net (year): +£54.53</span></div>
+<div class="cv-bar"><div class="cv-bar-fill" style="width:45%"></div><span class="cv-bar-text">Treasury (end of 1220): £54.53</span></div>
+
+### Projects
+**In progress / planned:**
+- *(none filed yet — the founding offices are still being settled with Aurelius)*
+
+**Completed:**
+- *(none yet)*
 
 ### Lately in the books
-- **Autumn 1220** — subsidy: £+20
-- **Autumn 1220** — subsidy: £+20
-- **Autumn 1220** — subsidy: £+20
-- **Spring 1220** — natural source: +5 pawns
-- **Spring 1220** — natural source: +5 pawns
-- **Spring 1220** — natural source: +3 pawns
-- **Spring 1220** — natural source: +4 pawns
-- **Spring 1220** — natural source: +3 pawns
-- **Spring 1220** — tribute: +10 pawns
-- **Spring 1220** — subsidy: £+20
-- **Spring 1220** — subsidy: £+20
-- **Spring 1220** — subsidy: £+20
+- **Autumn 1220** — Durenmar Autumn subsidy: £+20
+- **Autumn 1220** — Fengheld Autumn subsidy: £+20
+- **Autumn 1220** — Oculus Autumn subsidy: £+20
+- **Spring 1220** — Skylark Egg (on the Oddstone): +5 pawns
+- **Spring 1220** — Skylark Egg (on the Oddstone): +5 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +3 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +4 pawns
+- **Spring 1220** — Oddstone (Kummakivi): +3 pawns
+- **Spring 1220** — Rhine founding vis subsidy: +10 pawns
+- **Spring 1220** — Durenmar Spring subsidy: £+20
+- **Spring 1220** — Fengheld Spring subsidy: £+20
+- **Spring 1220** — Oculus Spring subsidy: £+20
 
 ### Who saves us money
 The covenfolk's trades offset the covenant's running costs (each trade up to its cap):
