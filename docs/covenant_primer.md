@@ -30,6 +30,8 @@ All Members together form the **Council**, which meets four times a year. **You 
 
 We play **one in-game year at a time, as a block.** All of a year's stories run at once, and you plan the *next* year throughout the current one — the AI keeps asking you what your magus and your office intend to do, and gives you a **projection** of what resources you'll have to work with, so you're planning against real figures, not guesses.
 
+**Your magus has four season-slots a year**, and you plan all four together (the whole year is in play at once). Most seasons are quiet work — lab, study, writing, vis extraction — one activity each. A *story* may or may not cost a slot: a **short adventure (up to a month in the fiction) is a "distraction"** that costs **no slot** — you keep the full result of your planned work, and may instead take Adventure XP for the adventure. Only a **long story (more than a month)** eats the season. So short stories layer on for free; only a long expedition spends a slot. (The full detail, the year's calendar, and your own figures live on **[Plan Your Season](../covenant/plan.html)**.)
+
 Two moments anchor the year:
 - **A reconciliation, partway through** — the AI gathers everyone's planned projects and their costs into one thread and pings the officers, so you can fit your plans to the budget and to each other.
 - **The Spring Council, at the turn of the year** — played out in character. The Council approves the year's budget and handles any other business between the magi.

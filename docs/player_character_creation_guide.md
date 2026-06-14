@@ -15,25 +15,18 @@ The instructions start with the mechanics of character creation, but I suggest y
 
 Before you begin, ask the GM about the saga's **House Rules** — they nerf certain types of characters somewhat. (The chargen-relevant limits are also gathered under "Limitations" below.)
 
-## The Sheet
+## How you build your character
 
-The **character sheet** used for magi and companions in the saga is here:
-https://docs.google.com/spreadsheets/d/1cTyvmcxa04RrEdgrFbdKKZYCS6EemZoOANiJMwcyOr0/edit
+You build your magus **on the forum, with the storyguide** — there's no form to wrestle with alone. Open a topic in the **Character Generation** board and say hello; that opens a guided build. You choose how hands-on to be:
 
-Note that you need to **make a copy** of this sheet for your own use (File → Make a Copy) before you can edit it. After you have done this, move the new copy into the **Magi Sheets** folder before you start editing it:
-https://drive.google.com/drive/folders/1_e7_q1GDkOrSJL3itcsagfyo8l0FtKhO
+- **let the storyguide build it** from your concept and a few preferences, then review and adjust;
+- **step through it together**, one decision at a time (the usual way) — concept, then Virtues & Flaws, House, Abilities, Characteristics, Arts & spells;
+- **drive it yourself** and have the storyguide advise and check as you go; or
+- **build it entirely on your own** in the [character-sheet template](https://docs.google.com/spreadsheets/d/1cTyvmcxa04RrEdgrFbdKKZYCS6EemZoOANiJMwcyOr0/edit) (File → Make a Copy first) and bring it to be checked.
 
-This is your own character's sheet — the only sheet you maintain. The covenant's records and bookkeeping are kept by the GM; you don't edit those.
+Either way the storyguide does the bookkeeping — the arithmetic, the rules-validation, and finalizing the sheet — so you can spend your attention on the *character*. New to the forum and the storyguide? Read **[How We Play](how_we_play.html)** first.
 
-The sheet can be slightly difficult to understand at first. Before you edit anything, read and **understand the instructions** below and **look at all of the tabs**.
-
-The most important thing is: **if there's a formula in a cell, you're not supposed to edit it**. You don't edit the sheets called "Overview" at all, for instance.
-
-I suggest you **start mechanical character creation** by entering XP into the "Advancement" tab. The information propagates into the other tabs mostly automatically.
-
-After XP, I suggest you edit the "Main" (Virtues and Flaws, years, info) and "Spells" tabs.
-
-**The sheet needs your help for propagating the XP into abilities.** After you have entered the appropriate XP in "Advancement", go to "Main" and **select all of the abilities that you have put XP towards** from the drop-down menus. The **"Chosen Abilities" list on the far right-hand side** helps you check you got them all.
+The rest of this guide explains the **choices** you'll make and the saga's limits; work through them in whatever order you like.
 
 ## The Backstory
 
@@ -49,7 +42,7 @@ The purpose of the driving interest is to give you, as a player, a source of ide
 
 Despite the goal-talk above, avoid making your character one-dimensional. They should be capable of **prioritizing or compromising** with others when necessary. This tension makes for a richer, more believable character who can adapt and grow over the course of the saga, but also makes dealings between characters more fun. Do not make a character that attacks hedge magi on sight without discussing it with their sodales.
 
-Remember that the character **must be a peregrinator of the Rhine tribunal**. Consequently, they are likely to be a member of a Gild. Note that the setting of this saga differs slightly from canon in this respect, in that the conflict between the young and the old is more intense. The **Birch Gild** exists, and the other Gilds (as well as every individual character) all have positions regarding the **Elm of Hermes** and **Ashes to Saplings**. **If your character does belong to a Gild, they have 4 build points worth of private assets (as per the list in Covenants, p. 5) that represent the benefits of their association.** The Gild's members may later expect solidarity from the character, however. (Ask the GM about the saga's setting and the Gild politics — the Birch Gild, the Elm of Hermes, and Ashes to Saplings are saga-specific; they are part of the shared lore, not in the rulebooks.)
+Remember that the character **must be a peregrinator of the Rhine tribunal**. Consequently, they are likely to be a member of a Gild. Note that the setting of this saga differs slightly from canon in this respect, in that the conflict between the young and the old is more intense. The **Birch Gild** exists, and the other Gilds (as well as every individual character) all have positions regarding the **Elm of Hermes** and **Ashes to Saplings**. **If your character does belong to a Gild, they have 4 build points worth of private assets (as per the list in Covenants, p. 5) that represent the benefits of their association.** The Gild's members may later expect solidarity from the character, however. The **[Gilds of the Rhine](the_gilds.html)** page explains the Birch Gild, the Elm of Hermes, and Ashes to Saplings — these are saga lore, not in the rulebooks — and what taking a stance means for your magus.
 
 Here are a few **questions that you may consider in planning the backstory** (though do not feel constrained by these suggestions):
 
@@ -99,9 +92,9 @@ If you do not wish to take Oculus up on their offer, you may pursue personal pro
 
 You may also forgo post-gauntlet advancement entirely or in part.
 
-## Submitting Your Character
+## Approval and joining
 
-Once you have a first draft of your character, submit it to the GM (the Creation Storyguide) for approval — share your draft sheet and your description. If the Creation SG asks for revisions, revise and resubmit; repeat until approved.
+When the build is done, the storyguide **stages it for the GM's approval** — you don't submit a sheet separately; the character you built together (plus your written backstory and description) is what's reviewed. If the GM asks for changes, you adjust and it's re-staged, until approved.
 
-Once your character is approved, the GM brings them into the covenant — you join as a **Guest** (a peregrinator of the Rhine). You don't need to register yourself anywhere or edit the covenant's records: the GM and the saga's system keep the roster and the bookkeeping. The GM will tell you how play and seasonal planning proceed from there.
+Once approved, you **join as a Guest** (a peregrinator of the Rhine). You don't register anywhere or edit the covenant's records — the system keeps the roster and the bookkeeping, and your magus gets a page on the covenant website. From there, see **[Plan Your Season](../covenant/plan.html)** for how your year works.
 

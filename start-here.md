@@ -14,3 +14,4 @@ has_children: true
 - [How We Play — the forum, the storyguide, and you](docs/how_we_play.html)
 - [How Caducus Works — a Player's Primer](docs/covenant_primer.html)
 - [Character Creation — Covenant of Caducus](docs/player_character_creation_guide.html)
+- [The Gilds of the Rhine — and the quarrel of young and old](docs/the_gilds.html)
