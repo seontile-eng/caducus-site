@@ -30,11 +30,11 @@ Animál 10 · Aquam 8 · Creo 10 · Rego 6 · Terram 6 · Vim 10
 
 ### Known sources
 *These are the annual yields the projection above assumes; an undiscovered or secret source is not listed here.*
-- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Te, 3 pawns, each Spring, annual
-- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Re, 3 pawns, each Summer, annual
-- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Aq, 4 pawns, each Autumn, annual
-- **Skylark Egg (on the Oddstone)** — Tip of the Koroinen peninsula, An, 5 pawns, each Spring, annual
-- **Skylark Egg (on the Oddstone)** — Tip of the Koroinen peninsula, Cr, 5 pawns, each Spring, annual
-- **Rhine founding subsidy** — Rhine sponsor covenants, Vi, 10 pawns, each Spring, once
+- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Te, 3 pawns, each Spring
+- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Re, 3 pawns, each Summer
+- **Oddstone (Kummakivi)** — Tip of the Koroinen peninsula, Aq, 4 pawns, each Autumn
+- **Skylark Egg (on the Oddstone)** — Tip of the Koroinen peninsula, An, 5 pawns, each Spring
+- **Skylark Egg (on the Oddstone)** — Tip of the Koroinen peninsula, Cr, 5 pawns, each Spring
+- **Rhine founding subsidy** — Rhine sponsor covenants, Vi, 10 pawns, Spring (once)
 
 *What's a pawn? What's the Aegis? — see the [glossary](../glossary.html).*
