@@ -30,7 +30,7 @@ So: short stories layer on for free; only a long expedition spends a slot. Class
 | Magus | Open slots | Service owed | Office |
 |---|---|---|---|
 | Aurelius | 4 | 1 | Pontifex |
-| Magus 1 | 4 | 2 | — |
+| Adolfus | 4 | 2 | — |
 | Magus 2 | 4 | 2 | — |
 | Magus 3 | 4 | 2 | — |
 | Magus 4 | 4 | 2 | — |

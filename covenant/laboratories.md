@@ -16,7 +16,7 @@ a sound, unremarkable laboratory (size 0, refinement 0).
 
 `Quality 0` `Safety 0` `Health 0` `Aesthetics 0` `Upkeep £/yr 0.5`
 
-### Magus 1 — Magus 1's Laboratory
+### Adolfus — Magus 1's Laboratory
 a sound, unremarkable laboratory (size 0, refinement 0).
 
 `Quality 0` `Safety 0` `Health 0` `Aesthetics 0` `Upkeep £/yr 0.5`

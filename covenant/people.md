@@ -13,7 +13,7 @@ parent: "The Covenant"
 *(The founding magi are still being created — these are the open seats; names and faces arrive as players join. Watch [Player Characters](../players/index.html).)*
 
 - **Aurelius** — House Bonisagus; holds the Pontifex; Middle
-- **Magus 1** — Young
+- **Adolfus** — Ex Miscellanea; Young
 - **Magus 2** — Young
 - **Magus 3** — Young
 - **Magus 4** — Young
