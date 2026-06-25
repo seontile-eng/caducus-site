@@ -42,6 +42,7 @@ You never need a command to be heard in a live scene — just post in the thread
 | Act in the world between scenes (a letter, a journey, a probe) | **World Interaction** |
 | Add a bit of in-character colour (no approval needed) | **Everyday Life** |
 | Answer a dice/Confidence/XP decision the engine asked you | **Decisions & Dice** |
+| Report a bug, or suggest a feature/improvement | **Bugs & Suggestions** (just post — no `@` needed; you'll get a reply, and another when it's fixed) |
 
 ## How to write a post
 
