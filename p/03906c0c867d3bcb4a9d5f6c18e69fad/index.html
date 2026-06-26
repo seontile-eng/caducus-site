@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>TestiTilinenu - Caducus portal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Spectral+SC:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+
+  :root{ --ink:#2c2114; --soft:#6d6049; --faint:#938468; --paper:#faf6ec; --line:rgba(44,33,20,.16); --hair:rgba(44,33,20,.08); --rubric:#9d2a23; --lapis:#3a4670; --gold:#8f7029; --met:#566b34; --amber:#9a6a1f; }
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{ background:#e9dec7; background-image:radial-gradient(120% 80% at 50% -10%, rgba(255,251,240,.7), rgba(233,222,199,0) 60%); min-height:100%; font-family:'Spectral',Georgia,serif; color:var(--ink); -webkit-font-smoothing:antialiased; }
+  a{ color:var(--rubric); text-decoration:none; }
+  a:hover{ text-decoration:underline; }
+  .covnav{ max-width:1060px; margin:0 auto; padding:22px 28px 0; display:flex; flex-wrap:wrap; gap:5px 17px; align-items:baseline; font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.12em; font-size:11.5px; }
+  .covnav .home{ color:var(--soft); margin-right:4px; }
+  .covnav a{ color:var(--faint); padding-bottom:4px; border-bottom:2px solid transparent; }
+  .covnav a:hover{ color:var(--ink); text-decoration:none; }
+  .covnav a.active{ color:var(--rubric); border-bottom-color:var(--rubric); }
+  .covwrap{ max-width:1060px; margin:0 auto; padding:18px 28px 64px; display:flex; flex-direction:column; gap:22px; }
+  .covhead{ border-bottom:1px solid var(--line); padding-bottom:20px; margin-top:6px; display:flex; justify-content:space-between; align-items:flex-end; gap:24px; flex-wrap:wrap; }
+  .covhead .eyebrow{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.2em; font-size:12.5px; font-weight:600; color:var(--rubric); }
+  .covhead h1{ font-weight:600; font-size:46px; line-height:1; margin:.16em 0 0; letter-spacing:-.015em; }
+  .covhead .lede{ font-style:italic; font-size:16px; color:var(--soft); margin-top:9px; max-width:64ch; }
+  .cov-card{ background:var(--paper); border:1px solid var(--line); border-radius:4px; padding:24px 26px; box-shadow:0 1px 2px rgba(44,33,20,.05); }
+  .cov-card>h2{ font-weight:600; font-size:22px; margin:0 0 4px; }
+  .cov-card>.sub{ font-style:italic; color:var(--soft); font-size:14.5px; margin:0 0 16px; max-width:74ch; }
+  .cov-card h3{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.08em; font-size:12.5px; color:var(--rubric); font-weight:700; margin:20px 0 7px; }
+  .cov-card h3:first-of-type{ margin-top:6px; }
+  .cov-card p{ font-size:15px; line-height:1.55; margin:.5em 0; color:var(--ink); }
+  .cov-card ul, .cov-card ol{ margin:.4em 0; padding-left:1.2em; }
+  .cov-card li{ font-size:15px; line-height:1.55; margin:.28em 0; }
+  .cov-card li b, .cov-card li strong{ font-weight:600; }
+  .cov-note{ font-style:italic; color:var(--faint); font-size:13.5px; }
+  .cov-pill{ display:inline-block; padding:2px 10px; border-radius:20px; font-size:12.5px; }
+  .cov-chip{ display:inline-block; min-width:22px; padding:1px 8px; border-radius:3px; font-family:'Spectral SC',serif; font-weight:700; font-size:12px; letter-spacing:.02em; }
+  .cov-table{ width:100%; border-collapse:collapse; font-size:14.5px; }
+  .cov-table th{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.1em; font-size:11px; color:var(--rubric); text-align:left; font-weight:600; padding:0 12px 9px 0; }
+  .cov-table td{ padding:9px 12px 9px 0; border-top:1px solid var(--hair); vertical-align:top; }
+  .cov-bars{ display:flex; flex-direction:column; gap:11px; }
+  .cov-bar{ display:flex; align-items:center; gap:14px; }
+  .cov-bar .lab{ width:210px; flex:none; font-size:14.5px; }
+  .cov-bar .track{ flex:1; height:18px; min-width:60px; background:var(--hair); border-radius:2px; overflow:hidden; }
+  .cov-bar .fill{ height:100%; border-radius:2px; }
+  .cov-bar .val{ width:96px; flex:none; text-align:right; font-weight:600; font-size:15px; font-variant-numeric:tabular-nums lining-nums; }
+  .cov-statgrid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(155px,1fr)); gap:16px; }
+  .cov-stat .eyebrow{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.15em; font-size:11px; color:var(--faint); margin-bottom:5px; }
+  .cov-stat .big{ font-size:42px; font-weight:600; line-height:1.04; font-variant-numeric:tabular-nums lining-nums; }
+  .cov-stat .unit{ font-size:15px; color:var(--soft); font-style:italic; }
+  .cov-stat .sub{ font-size:13px; color:var(--soft); margin-top:4px; }
+  .grid2{ display:grid; grid-template-columns:repeat(auto-fit,minmax(290px,1fr)); gap:16px; }
+  .covfoot{ display:flex; justify-content:space-between; gap:16px; flex-wrap:wrap; align-items:center; color:var(--faint); font-size:13.5px; font-style:italic; padding-top:2px; }
+  .covfoot a{ font-style:normal; font-weight:600; border-bottom:1px solid rgba(157,42,35,.4); }
+
+  html{ scroll-behavior:smooth; }
+  section[id]{ scroll-margin-top:62px; }
+  .snav{ position:sticky; top:0; z-index:9; background:#e9dec7; margin:0 0 4px; padding:11px 0 9px;
+    border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:3px 16px;
+    font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.11em; font-size:11px; }
+  .snav a{ color:var(--faint); padding-bottom:3px; border-bottom:2px solid transparent; }
+  .snav a:hover{ color:var(--ink); text-decoration:none; border-bottom-color:var(--rubric); }
+  .backlink{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.1em; font-size:11px; color:var(--soft); }
+  .kv{ display:grid; grid-template-columns:auto 1fr; gap:7px 18px; font-size:14.5px; margin:.3em 0; align-items:baseline; }
+  .kv dt{ color:var(--faint); font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.05em; font-size:11.5px; }
+  .kv dd{ margin:0; font-variant-numeric:tabular-nums lining-nums; }
+  .chips{ display:flex; flex-direction:column; gap:7px; margin:.4em 0; }
+  .chips>div{ display:flex; flex-wrap:wrap; gap:6px; }
+  .chips span{ display:inline-block; min-width:22px; padding:2px 9px; border:1px solid var(--line); border-radius:3px;
+    font-family:'Spectral SC',serif; font-weight:700; font-size:12px; letter-spacing:.02em; text-align:center;
+    font-variant-numeric:tabular-nums lining-nums; }
+  .chips .te{ color:var(--rubric); } .chips .fo{ color:var(--lapis); }
+  .note{ color:var(--soft); font-style:italic; font-size:13px; margin:.6em 0 .25em; }
+  .prose{ font-size:15px; line-height:1.55; margin:.5em 0; max-width:72ch; }
+  .vf{ margin:0 0 12px; padding-bottom:11px; border-bottom:1px solid var(--hair); }
+  .vf:last-child{ border-bottom:none; }
+  .vf .h{ font-weight:600; font-size:15.5px; }
+  .vf .meta{ color:var(--faint); font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.06em; font-size:10.5px; }
+  .vf .eff{ font-size:14.5px; line-height:1.5; margin-top:3px; }
+  .vf .det{ color:var(--soft); font-style:italic; font-size:13.5px; margin-top:3px; }
+  .focus{ background:rgba(143,112,41,.08); border:1px solid var(--line); border-left:3px solid var(--gold);
+    border-radius:3px; padding:11px 14px; margin:6px 0 14px; }
+  .castblk{ margin:.3em 0 .8em; }
+  .where{ font-family:'Spectral SC',serif; text-transform:uppercase; letter-spacing:.06em; font-size:10.5px; color:var(--faint); margin:9px 0 4px; }
+  .prompt{ background:#f4ecd8; border:1px dashed var(--line); border-radius:4px; padding:12px 14px;
+    white-space:pre-wrap; font-size:13.5px; line-height:1.5; margin:0 0 10px; }
+  .warn{ background:rgba(154,106,31,.1); border-left:3px solid var(--amber); border-radius:3px; padding:10px 13px; font-size:14px; margin:9px 0; }
+  #decisions{ border-left:3px solid var(--gold); }
+  #decisions .dec{ margin:0 0 14px; }
+  #decisions .dec:last-child{ margin-bottom:0; }
+</style>
+</head>
+<body>
+<div class="covwrap">
+<div class="covhead"><div><div class="eyebrow">TestiTilinenu · private portal</div><h1>TestiTilinenu</h1><div class="lede">Your character(s), as the covenant's records stand in 1220.</div></div></div><div class="covwrap" style="padding:0;gap:22px;display:flex;flex-direction:column;"><div class="cov-card"><h2>Your characters</h2><ul class="charlist" style="list-style:none;padding:0;margin:0;"><li><a href="char-053/index.html"><strong>Adolfus</strong> &mdash; Ex Miscellanea magus</a></li></ul></div></div>
+<div class="covfoot"><span>This is your private portal &mdash; the link is your key, so don't share it. Everything here is generated from the covenant's records and updates itself; you never edit it. Spot something wrong? Tell the storyguide.</span></div>
+</div>
+</body>
+</html>
