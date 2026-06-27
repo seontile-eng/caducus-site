@@ -68,7 +68,7 @@ This saga is set on a hard 13th-century frontier and **depicts slavery and other
 
 ## Your first year (the founding)
 
-Caducus is brand new (the year is 1220), and the founding cohort arrives as **Guests** of the covenant's head, **Aurelius**. Early on, ArsBot will open an **in-character conversation with Aurelius** for your magus: he'll talk over **which office's duties you'd like to take on** and **what project** you'd run for it. **Offices go first-come, first-served** — settle one you want, and it's yours; come late and Aurelius will steer you to a free one. (You hold the duties provisionally as a Guest; who *formally* holds each office is a later story.) This is also how you learn the budget you'll plan against.
+Caducus is brand new (the year is 1220), and the founding cohort arrives as **Guests** of the covenant's head, **Aurelius**. During character creation you'll settle the practical questions — **which office's duties you'd like to take on**, and **how you'll spend the year before the founders sail** (working for the covenant, or on your own projects). Then ArsBot opens an **in-character meeting with Aurelius**: the bureaucracy is already done, so the audience is the meeting itself — he receives you, you talk things over, and you can ask him anything. **Choosing an office is a request, not a guarantee:** if you're the only one who wants it, it's yours; if two of you want the same seat, Aurelius decides between you by the projects you each propose to run for it — so he won't promise it on the spot. (You hold the duties provisionally as a Guest; who *formally* holds each office is a later story.)
 
 ## What next?
 
