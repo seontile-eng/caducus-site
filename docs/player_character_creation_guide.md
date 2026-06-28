@@ -76,11 +76,12 @@ Also, consider whether your character is capable of running the business on thei
 
 ## Oculus' Offer
 
-All characters may have **at most one year of post-gauntlet advancement** according to the extremely complex rules.
+Your character arrives at Oculus in **Spring 1219, freshly gauntleted** — just out of apprenticeship. You may make them **any age**: an older magus simply *began apprenticeship later* and so spent more years gathering ordinary (non-magical) experience before being taken on. There are **no "seasoned" founders** with years of magic behind them — everyone is fresh from the Gauntlet, and everyone spends the year **1219** living at Oculus before the founders sail on **21 January 1220**.
 
-Oculus Septentrionalis has offered to waive seasons of compulsory service for the year 1219 to any peregrinators **if Aurelius of Bonisagus deems their projects as preparation for Caducus** — i.e. beneficial not only to the character but the covenant as a whole.
+That one year at Oculus is your character's **only** post-gauntlet advancement — at most one year — and you spend it one of **two ways**:
 
-If your character chooses to use this opportunity, they may have four seasons of advancement to use for clearly covenant-benefiting projects.
+- **Take Oculus' offer:** **all four seasons** on work that benefits Caducus as a whole — *if Aurelius of Bonisagus deems your project preparation for the covenant* (beneficial not only to you but the covenant). Your compulsory service to Oculus is **waived** in exchange, and any tangible products become the covenant's property.
+- **Do your own thing:** **two seasons** on your own projects, plus **two seasons of compulsory service** for Oculus — which earn you exposure experience, counted as Magic Theory.
 
 Assume a standard lab, an aura of 4, the availability of all RAW lab texts at all levels, a teacher for Finnish, Swedish, Area Lore: Finland, and Teach at Level 5 and QL 16, and the availability of one Tractatus per player of any Art at Quality 13.
 
@@ -88,9 +89,7 @@ Assume a standard lab, an aura of 4, the availability of all RAW lab texts at al
 
 It is difficult to persuade Aurelius to accept book reading, talisman work, or familiar bonding unless it can be portrayed as necessary to accomplish a collectively-useful spell or enchantment that is just out of reach. In such borderline cases, you may be allowed a social roll (Pre + Charm, Com + Guile, or similar, at an EF determined by plausibility) to permit a seasonal plan that can be construed as benefiting the covenant on the whole.
 
-If you do not wish to take Oculus up on their offer, you may pursue personal projects for two seasons and take two seasons of exposure XP into Magic Theory for seasons of service. Assume the same conditions as above for the seasons of personal projects.
-
-You may also forgo post-gauntlet advancement entirely or in part.
+(The two seasons of personal projects on the second path assume the same lab, teacher, and lab-text conditions as above.)
 
 ## Approval and joining
 
