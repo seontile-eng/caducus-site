@@ -95,5 +95,5 @@ It is difficult to persuade Aurelius to accept book reading, talisman work, or f
 
 When the build is done, the storyguide **stages it for the GM's approval** — you don't submit a sheet separately; the character you built together (plus your written backstory and description) is what's reviewed. If the GM asks for changes, you adjust and it's re-staged, until approved.
 
-Once approved, you **join as a Guest** (a peregrinator of the Rhine). You don't register anywhere or edit the covenant's records — the system keeps the roster and the bookkeeping, and your magus gets a page on the covenant website. From there, see **[Plan Your Season](../covenant/plan.html)** for how your year works.
+Once approved, you **join as a Guest** (a peregrinator of the Rhine). You don't register anywhere or edit the covenant's records — the system keeps the roster and the bookkeeping, and your magus gets a page on the covenant website. You'll also get a private login link to your own **character app** — that's where you actually spend a season, trade, and answer decisions (see **[How We Play](how_we_play.html)** → "Your character app"); the **[Plan Your Season](../covenant/plan.html)** page here is the read-only explanation of how the year works.
 

@@ -19,6 +19,10 @@ There are two homes for the saga, and they do different jobs:
 
 When in doubt: **do it on the forum, look it up on the site.**
 
+## Your character app — a third, private place
+
+Once your magus is approved, you'll get a **private login link** with your acceptance. That's your own **character app** — separate from this public site and from the forum: your sheet, the real **season-plan form** (spend a season, not just read about the model), trades and vis offers, and a **Needs you** list for anything the storyguide is waiting on you to decide. The forum is still where you *play*; the app is where you *manage* your magus.
+
 ## Talking to the storyguide
 
 The saga is run by an AI storyguide (**ArsBot**) with a human Game Master (**Seon**) behind it. You reach the storyguide on the forum:

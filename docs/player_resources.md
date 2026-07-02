@@ -19,6 +19,17 @@ Welcome to Caducus. Everything you need is gathered here. **You can always just 
 - **The covenant website** — the live numbers: treasury, vis, offices & budgets, library, laboratories, roster, plus all the documents above and the character pages, regenerated automatically. → https://seontile-eng.github.io/caducus-site/ *(Season planning happens on the forum: the **Covenant Planning** board.)*
 - **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → `<link>`
 
+## Your character app
+
+Once your magus is approved, you get a **private login link** (comes with your acceptance — no need to look for it). That's your **character app** — a personal page separate from this public site and the forum:
+
+- **Your sheet** — the full working record of your magus, kept live.
+- **Plan your season** — the actual form where you spend a season, not just the reference page on this site.
+- **Trades & vis offers** — accept, decline, or counter what's come in for you.
+- **XP & other decisions** — anything the storyguide is waiting on you to answer shows up in your **Needs you** list.
+
+The forum is still where you *play*; the app is where you *manage* your magus. Lost your link or think it's compromised? Ask the GM for a fresh one.
+
 ## Quick reference — the two that trip people up
 
 **The annual cycle & budgeting.** We play one in-game year at a time as a block; all of a year's stories run at once, and you plan *next* year throughout this one. The AI gives you a **projection** of what you and your office will have to work with, so you plan against real numbers. Partway through the year the AI opens a **reconciliation** thread — everyone's planned projects and costs in one place — so the officers can fit their plans to the budget and each other. At the turn of the year the **Spring Council** (played in character) approves the budget. **The budget *proportions* — how much vis/silver/service each office gets — are set a year ahead and locked for the year they govern** (you can't plan a project without knowing its budget), so the Council's re-cutting of the shares takes effect the year *after*. Full version in the Primer; the letter of it is Charter §5–§6.

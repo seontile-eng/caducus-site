@@ -12,3 +12,4 @@ has_children: true
 - [Adolfus](adolfus.html)
 - [Apius](apius.html)
 - [Char 054](char-054.html)
+- [Rikpik](rikpik.html)
