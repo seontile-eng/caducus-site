@@ -10,7 +10,7 @@ parent: "Player Characters"
 
 - Player: TestiTilinenu
 - Roster: IN-103
-- Sheet: `characters/CHAR-PEND.json`
+- Sheet: `characters/CHAR-055.json`
 - House/origin: Merinita
 
 *Player-facing view rendered by `python cycle/cycle.py refresh`.*
