@@ -74,7 +74,7 @@ You don't need these to play; the AI applies them and will quote them on request
 - **The budget cycle (Charter §5–§6):** projects proposed and budgets drafted through the year; the Finalized Annual Budget (Mundane / Vis / Season-of-Service / Pontifical Salary) approved at the Spring Council; **proportions set one year ahead and locked** for the year they govern (§6.9).
 - **The covenant aura is 4** (folded into your casting and lab totals at the covenant).
 - **Northern economy (homebrew):** mundane labourers are reckoned at **0.7** of a southern labourer's productivity (the short season and hard winters); enslaved people are unpaid and counted at **half** a free labourer's weight for upkeep and savings.
-- **Cost rates** and the rest of the covenant economy: ask the AI, or see the Player View workbook (the "Costs & Savings" and "Offices & Service" tabs) for the live figures.
+- **Cost rates** and the rest of the covenant economy: ask the AI, see the **World** area of your character app once you're playing (treasury, offices, budgets, live), or the [Treasury](../covenant/treasury.html) and [Offices &amp; budget](../covenant/offices.html) pages on this site.
 
 *The Charter itself is in your documents if you want the letter of the law — it's long and dense, and there's no need to read it cover to cover; just ask the AI what it says about any particular thing.*
 

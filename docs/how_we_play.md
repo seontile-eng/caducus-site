@@ -10,18 +10,21 @@ parent: "Start Here"
 
 *New here? This is the one page that explains how the saga actually runs. Read it first; everything else (the Primer, the Charter, your character) makes more sense once you have this.*
 
-## Two places: the forum and this site
+## Three places: the forum, the app, and this site
 
-There are two homes for the saga, and they do different jobs:
+The saga runs across three homes, and each does a different job:
 
-- **The [forum](https://caducus.discourse.group) is where you PLAY.** Every conversation, scene, plan, question, and decision happens there. It's the covenant's voice.
-- **This website is where you LOOK THINGS UP.** It's the covenant's ledger — the living state (treasury, vis, offices, library, who's here) and the reference docs, regenerated from the records. Nothing is *done* here; you come here to check a number or re-read a rule.
+- **The [forum](https://caducus.discourse.group) is the table.** Every conversation, scene, plan-in-words, question, and decision that depends on what's actually *said* happens there — it's the covenant's voice.
+- **Your character app is the registry.** Once you're playing, anything a well-designed form can fully capture — a season plan, a Project proposal, an office request, a trade offer, your story appetite — you settle there: fill it in, and it goes straight to the engine, or straight to whoever decides it, without asking twice or repeating yourself elsewhere.
+- **This website is the covenant's open ledger-book.** No login needed. It's the living state (treasury, vis, offices, library, who's here) and the reference docs, regenerated from the records, for anyone to read.
 
-When in doubt: **do it on the forum, look it up on the site.**
+When in doubt: **say it on the forum, file it in the app, look it up on the site.**
 
 ## Your character app — a third, private place
 
-Once your magus is approved, you'll get a **private login link** with your acceptance. That's your own **character app** — separate from this public site and from the forum: your sheet, the real **season-plan form** (spend a season, not just read about the model), trades and vis offers, and a **Needs you** list for anything the storyguide is waiting on you to decide. The forum is still where you *play*; the app is where you *manage* your magus.
+Once your magus is approved, you'll get a **private login link** with your acceptance. That's your own **character app** — separate from this public site and from the forum: your sheet, the real **season-plan form** (spend a season, not just read about the model), trades and vis offers, and a **Needs you** list for anything the storyguide is waiting on you to decide. The forum is still where you *play*; the app is where you *manage* your magus. Its **World** area is where you look things up — the covenant's treasury and offices, everyone at Caducus and who it knows abroad, the full library, the Charter, and the founding letters, all live from the records.
+
+**The registry and the table.** Anything a well-designed FORM could fully capture — a season plan, a Project proposal, an office request, a trade offer, your story appetite for the year — you settle **in the app**: fill it in, and it goes straight to the engine, or straight to whoever decides it (a storyguide, the alpha, the GM), without you having to ask twice or repeat yourself somewhere else. Anything that depends on what's actually **said** — roleplay, persuading an NPC, arguing a correction, telling a story — happens **on the forum**, where the table's own words are what count. Simple test: if a form could capture the whole thing, it's the app; if it needs your own words, it's the forum.
 
 ## Talking to the storyguide
 
