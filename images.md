@@ -9,6 +9,9 @@ parent: "Reference"
 
 *The Year 1220 — the founding year*
 
+#### Arholma Orient K3
+![Map of Arholma Orient K3](images/maps/arholma__orient__k3.png)
+
 #### Caducus Grounds
 ![Map of Caducus Grounds](images/maps/caducus_grounds__v1.png)
 
