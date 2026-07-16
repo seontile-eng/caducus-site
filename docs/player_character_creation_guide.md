@@ -66,12 +66,12 @@ If you wish, your character may pursue **business dealings** with others — mag
 
 If such business interests you, consider competitive advantage: Can your character provide a commodity that is either qualitatively better/unique or cheaper than average competition in the market they are targeting? Often, this requires synergy amongst traits and acquired capacities.
 
-Also, consider whether your character is capable of running the business on their own resources, or whether it should be a covenant endeavor. According to the charter:
-* Items, including books, created using any covenant vis, non-infrastructural mundane resources, or compulsory service seasons belong to Caducus.
+Also, consider whether your character is capable of running the business on their own resources, or whether it should be a covenant endeavor. According to the charter, **yields follow funding**: a season's yields belong to whoever funded that season. Concretely:
+* A season spent on compulsory service, or funded by an office's service budget (e.g. an officer-ordered expedition), produces items, books, vis, or other yields that belong to Caducus.
+* A season you fund and spend freely on your own time produces yields that are your private property (subject to the vis split below and to registering private property with the Forehead within 30 days — unregistered property is presumed the covenant's in an audit).
 * Any vis (or source) discovered by a member or guest while at Caducus belongs to the covenant, except that:
-* Discoverers of isolated vis pockets keep half (rounded down) of the discovered amount. Discoverers of a new vis source receive its first annual yield in full.
-* Vis extracted during a compulsory service season belongs to the covenant. Vis extracted during a free season belongs to the extractor.
-* Resources and items created entirely using one's own or borrowed time, vis, and mundane resources remain private property.
+* Discoverers of an isolated vis pocket keep half (rounded down) of the discovered amount. Discoverers of a new recurring vis source receive its first annual yield in full — but the source itself becomes covenant property afterward.
+* This finder's fee only applies to a self-funded, free-season discovery: vis found during compulsory service, or during an officer-ordered/service-budget-funded expedition, belongs wholly to the covenant — no fee.
 * Application of the basic infrastructure provided to all members and guests — including the Aegis, shelter, provisions, library, and laboratory — does not preclude private ownership of the products.
 
 ## Oculus' Offer

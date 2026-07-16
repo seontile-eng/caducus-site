@@ -37,6 +37,16 @@ The saga is run by an AI storyguide (**ArsBot**) with a human Game Master (**Seo
 
 You never need a command to be heard in a live scene — just post in the thread.
 
+## Starting and resuming play
+
+**Story scenes live in the Stories board, one thread per scene.** A scenario opens **one canonical thread**; if you're not sure whether a scene has already started, check the board first — if you post `!chat` into what turns out to be a duplicate, ArsBot points you to the real thread instead of running the scene twice.
+
+**`!chat` does not start a story scene.** It opens a live back-and-forth for OOC talk, rules questions, and character generation — but story scenes run on ArsBot's own schedule (its dawn and afternoon passes), never on a player-typed command. If a scene hasn't opened yet, what starts it is the next scheduled pass, not `!chat`; once it *is* open, you never need a command to be heard in it — just post.
+
+**Expected latency.** A live scene reply usually lands within a few minutes of the tick that runs it; some replies are held for the GM's own check before they post, so it's never instant, but it's never a long wait either. An OOC or rules question (`@ArsBot`) usually gets an answer by the next morning.
+
+**Stuck, or nothing moving?** `@ArsBot` for a mechanics or rules question. PM **Seon** (the GM) for anything else — a scene that seems stalled, a thread you think duplicates another, or anything you're unsure how to raise.
+
 ## Where do I do what? — the boards
 
 | You want to… | Go to |
@@ -44,7 +54,7 @@ You never need a command to be heard in a live scene — just post in the thread
 | Get oriented, find the docs, ask a "how does this work" question | **Start Here** |
 | Make or revise a character | **Character Generation** (just post) |
 | Ask a rules/OOC question, chat out-of-character | **OOC Discussion** (`@ArsBot`) |
-| Plan your magus's year — seasons, projects, budget | **Covenant Planning** |
+| Plan your magus's year — seasons, projects, budget | **Covenant Planning** (the filing itself happens in your app — the board is for talking it through) |
 | Play out an adventure or scene | **Stories** |
 | Act in the world between scenes (a letter, a journey, a probe) | **World Interaction** |
 | Add a bit of in-character colour (no approval needed) | **Everyday Life** |

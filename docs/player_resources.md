@@ -17,7 +17,7 @@ Welcome to Caducus. Everything you need is gathered here. **You can always just 
 - **How Caducus Works (Player Primer)** — the ways this covenant differs from baseline Ars Magica (governance, the year, money & vis, the people). **Read this when you join.** → `<link>`
 - **The Charter** — the full letter of the law. Long and dense; no need to read it through — ask the AI what it says about anything. → `<link>`
 - **The covenant website** — the live numbers: treasury, vis, offices & budgets, library, laboratories, roster, plus all the documents above and the character pages, regenerated automatically. → https://seontile-eng.github.io/caducus-site/ *(Season planning happens on the forum: the **Covenant Planning** board.)*
-- **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → `<link>`
+- **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → [Safety Tools](safety.html)
 
 ## Your character app
 
@@ -58,7 +58,7 @@ The forum is still where you *play*; the app is where you *manage* your magus. L
 - **Offices:** the Pontifex (Aurelius) + six body-part officers (Forehead/Heart/Stomach/Groin/Hand/Foot). You'll be offered one early; running its yearly project is part of play.
 - **Service:** Members owe 1 season/year, Guests 2. You start as a Guest and become a Member at the Spring 1221 Council.
 - **Money:** each office has a yearly budget (no rollover); **no vis tax**; officers earn 1/10 of their project spend — **mundane spend → £ salary, vis spend → vis salary** (dual-currency); 5 pawns of Re/Vi are always reserved for the Aegis.
-- **Ownership:** what you make entirely with your own time and resources is yours; what uses covenant vis/resources/service is the covenant's. Discovered vis is the covenant's (you keep a finder's fee).
+- **Ownership:** what you make entirely with your own time and resources is yours; what uses covenant vis/resources/service is the covenant's. Discovered vis is the covenant's; you keep a finder's fee for a self-funded discovery (none if found during service or a covenant-funded expedition).
 - **The people:** the covenant includes free covenfolk, hired labourers, the Koroinen clan's labour — and **enslaved people**; the saga treats that as a live moral matter (see Safety).
 
 **Spot a mistake or have an idea for something the system should do?** Flag it in OOC — the AI has a protocol for verifying, learning, and (with GM approval) building on it.
