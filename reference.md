@@ -9,7 +9,7 @@ has_children: true
 
 *The Year 1220 — the founding year*
 
-Look things up — the quick-reference, the founding fiction, and the Charter (plus the [Glossary](glossary.html) and [Maps](images.html) in this section).
+Look things up — the quick-reference, the founding fiction, the Charter, and Safety Tools (plus the [Glossary](glossary.html) and [Maps](images.html) in this section).
 
 - [Caducus — Player Resources & Quick Reference](docs/player_resources.html)
 - [Safety Tools — Lines, Veils & the X-Card](docs/safety.html)

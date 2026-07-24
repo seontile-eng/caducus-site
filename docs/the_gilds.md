@@ -44,7 +44,7 @@ The **Birch Gild** is the seventh, radical Gild — the organized vehicle of *As
 
 ## What this means for your character
 
-A Rhine peregrinator almost certainly belongs to a Gild and holds **a stance on the Elm and on Ashes** — choose both when you build, and your stance can be ardent, weary, opportunistic, or genuinely torn. **If your magus belongs to a Gild, they have 4 build points of private assets** (per the list in *Covenants* p.5) that represent its benefits — and the Gild's members may later expect their **solidarity**.
+A Rhine peregrinator almost certainly belongs to a Gild and holds **a stance on the Elm and on Ashes** — choose both when you build, and your stance can be ardent, weary, opportunistic, or genuinely torn. **If your magus belongs to a Gild, they have some modest private assets** representing its benefits — the exact figure is a saga judgment call, not a fixed rulebook table — and the Gild's members may later expect their **solidarity**.
 
 Caducus itself spans the whole quarrel: founded under a Linden moderate, backed by elders far away, and just the sort of raw frontier outpost a young Bircher might read as either an exile to be endured or a beachhead to be seized. Where your magus sits in all this — and what they hope to *do* about it — is one of the richest seeds for their story.
 

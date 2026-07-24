@@ -7,15 +7,15 @@ parent: "Reference"
 
 # Caducus — Player Resources & Quick Reference
 
-*Source for the PINNED "Player Resources" forum post (separate from the Chronicle/Status post). Player-facing. The AI maintains this file; the GM posts/edits it on the forum and pins it. When something here changes, the post is refreshed (PACK_PlayerView reference-surface routine). Replace each `<…>` with the live forum/Drive link when posting.*
+*Source for the PINNED "Player Resources" forum post (separate from the Chronicle/Status post) AND this same content is published verbatim to the covenant website — every link below must therefore be a real, resolvable absolute URL, never a `<…>` placeholder (a placeholder ships broken to the live site the moment this file is regenerated). Player-facing. The AI maintains this file; the GM posts/edits it on the forum and pins it. When something here changes, the post is refreshed (PACK_PlayerView reference-surface routine).*
 
 Welcome to Caducus. Everything you need is gathered here. **You can always just ask the AI-GM** anything — about the rules, the setting, the politics, or how any of this works; this post is for when you'd rather look it up.
 
 ## Your documents
-- **Founding Letters** — the saga's premise, tone, and politics in the founders' own words. → `<link>`
-- **Character Creation guide** — how to build your magus. → `<link>`
-- **How Caducus Works (Player Primer)** — the ways this covenant differs from baseline Ars Magica (governance, the year, money & vis, the people). **Read this when you join.** → `<link>`
-- **The Charter** — the full letter of the law. Long and dense; no need to read it through — ask the AI what it says about anything. → `<link>`
+- **Founding Letters** — the saga's premise, tone, and politics in the founders' own words. → https://seontile-eng.github.io/caducus-site/docs/founding_letters.html
+- **Character Creation guide** — how to build your magus. → https://seontile-eng.github.io/caducus-site/docs/player_character_creation_guide.html
+- **How Caducus Works (Player Primer)** — the ways this covenant differs from baseline Ars Magica (governance, the year, money & vis, the people). **Read this when you join.** → https://seontile-eng.github.io/caducus-site/docs/covenant_primer.html
+- **The Charter** — the full letter of the law. Long and dense; no need to read it through — ask the AI what it says about anything. → https://seontile-eng.github.io/caducus-site/docs/charter.html
 - **The covenant website** — the live numbers: treasury, vis, offices & budgets, library, laboratories, roster, plus all the documents above and the character pages, regenerated automatically. → https://seontile-eng.github.io/caducus-site/ *(Season planning happens on the forum: the **Covenant Planning** board.)*
 - **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → [Safety Tools](safety.html)
 

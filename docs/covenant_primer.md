@@ -47,6 +47,7 @@ Two moments anchor the year:
 - **A reserve of vis is always kept back** for the Aegis and never spent down.
 - **"Universal Vis."** For *budgeting*, all vis is treated as one interchangeable currency ("Universal Vis", or UV) so that a budget can be written without naming exact Arts; it's converted to real pawns of specific Arts when actually spent. You'll see budgets quoted in UV.
 - **What's yours vs. the covenant's:** vis and items you make **entirely with your own time and resources** stay your private property; anything made with covenant vis, covenant resources, or a service-season belongs to Caducus. Discovered vis belongs to the covenant; you keep a finder's fee for a self-funded discovery (none if found during service or a covenant-funded expedition). Using the shared Aegis, lab, library, and provisions doesn't make your work the covenant's.
+- **Want more from your laboratory, or a ceremonial casting chamber?** Construction is a covenant matter, not something a magus builds alone — ask for it in the app, and whichever office handles laboratory upkeep commissions it out of their budget.
 
 ## 4. The people of the covenant — read this, and see the safety note
 

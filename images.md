@@ -32,12 +32,3 @@ parent: "Reference"
 
 #### Oddstone Regio Public
 ![Map of Oddstone Regio Public](images/maps/oddstone_regio__public__v1.png)
-
-#### Char-054 Portrait A1
-![Map of Char-054 Portrait A1](images/players/CHAR-054__portrait__a1.jpg)
-
-#### Char-054 Portrait A2
-![Map of Char-054 Portrait A2](images/players/CHAR-054__portrait__a2.jpg)
-
-#### Char-054 Portrait A3
-![Map of Char-054 Portrait A3](images/players/CHAR-054__portrait__a3.jpg)
