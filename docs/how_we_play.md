@@ -30,7 +30,7 @@ Once your magus is approved, you'll get a **private login link** with your accep
 
 The saga is run by an AI storyguide (**ArsBot**) with a human Game Master (**Seon**) behind it. You reach the storyguide on the forum:
 
-- **`@ArsBot`** in a post — mention it with a question or an action, and it answers (usually by the next morning).
+- **`@ArsBot`** in a post — mention it with a question or an action, and it answers at its next pass (see *Expected latency* below).
 - **`!chat`** — opens a **live session** in that thread for a back-and-forth; type **`!done`** (or just go quiet) to end it.
 - **In the Character Generation board, just post** — no command needed; saying hello opens a guided character build.
 - **PM ArsBot** for anything private. (The GM's own account is *Seon* — a separate inbox the bot can't read, for when you want the human directly.)
@@ -39,11 +39,11 @@ You never need a command to be heard in a live scene — just post in the thread
 
 ## Starting and resuming play
 
-**Story scenes live in the Stories board, one thread per scene.** A scenario opens **one canonical thread**; if you're not sure whether a scene has already started, check the board first — if you post `!chat` into what turns out to be a duplicate, ArsBot points you to the real thread instead of running the scene twice.
+**Story scenes live in the Stories board, one thread per scene.** A scenario opens **one canonical thread**; if you're not sure whether a scene has already started, check the board first — and if you announce a scene that turns out to be running already, ArsBot points you at the real thread rather than opening a second one.
 
-**`!chat` does not start a story scene.** It opens a live back-and-forth for OOC talk, rules questions, and character generation — but story scenes run on ArsBot's own schedule (its dawn and afternoon passes), never on a player-typed command. If a scene hasn't opened yet, what starts it is the next scheduled pass, not `!chat`; once it *is* open, you never need a command to be heard in it — just post.
+**`!chat` does not start a story scene.** It opens a live back-and-forth for OOC talk, rules questions, and character generation — but story scenes run on ArsBot's own schedule (its two daily passes — 05:00 and 17:00, Helsinki time), never on a player-typed command. If a scene hasn't opened yet, what starts it is the next scheduled pass, not `!chat`; once it *is* open, you never need a command to be heard in it — just post.
 
-**Expected latency.** A live scene reply usually lands within a few minutes of the tick that runs it; some replies are held for the GM's own check before they post, so it's never instant, but it's never a long wait either. An OOC or rules question (`@ArsBot`) usually gets an answer by the next morning.
+**Expected latency — two speeds, and it's worth knowing which one you're in.** A **live session** (`!chat`, or any post in Character Generation) is fast: ArsBot looks in every few minutes, so it reads like a conversation. **A story scene is not live.** Your post waits for the next of ArsBot's two daily passes (05:00 and 17:00, Helsinki time), and what it writes there is a *draft* — **every story reply is read by the GM before it appears.** So expect a scene to move a beat or two a day, not a beat an hour. An OOC or rules question (`@ArsBot`) rides those same two passes.
 
 **Stuck, or nothing moving?** `@ArsBot` for a mechanics or rules question. PM **Seon** (the GM) for anything else — a scene that seems stalled, a thread you think duplicates another, or anything you're unsure how to raise.
 
@@ -57,7 +57,7 @@ You never need a command to be heard in a live scene — just post in the thread
 | Plan your magus's year — seasons, projects, budget | **Covenant Planning** (the filing itself happens in your app — the board is for talking it through) |
 | Play out an adventure or scene | **Stories** |
 | Act in the world between scenes (a letter, a journey, a probe) | **World Interaction** |
-| Add a bit of in-character colour (no approval needed) | **Everyday Life** |
+| Add a bit of in-character colour (no approval needed) | **Everyday Life** (ArsBot keeps quiet here unless you `@` it) |
 | Answer a dice/Confidence/XP decision the engine asked you | **Decisions & Dice** |
 | Report a bug, or suggest a feature/improvement | **Bugs & Suggestions** (just post — no `@` needed; you'll get a reply, and another when it's fixed) |
 

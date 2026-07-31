@@ -7,7 +7,7 @@ parent: "Start Here"
 
 # Character Creation — Covenant of Caducus
 
-*Player-facing guide. How to create a character for the saga.*
+*How to create a character for the saga.*
 
 This page instructs players in how to create characters for the saga.
 
@@ -54,7 +54,7 @@ For **ideas on the kinds of formative experiences** the characters may have had,
 
 1) You **may include at most 50 levels of custom spells** at character creation. This saga's in-character interpretation is that the spells in the Core book are the ones with the best availability of lab texts, whereas those in the other books all exist and could be found at least in Durenmar. However, other spells also exist as lab texts and might thus be taught to apprentices.
 
-2) **All sourcebooks** are on the table to begin with: guidelines, virtues, lore, mysteries, mechanics &c. However, be prepared to teach how they work to others, and be prepared for refusal once we understand how all of it works. **Bring potentially controversial aspects up with the others early in the process** to avoid losing labor time if others decide to disallow them.
+2) **All sourcebooks** are on the table to begin with: guidelines, virtues, lore, mysteries, mechanics &c. However, be prepared to teach how they work to others, and be prepared for refusal once we understand how all of it works. **Bring potentially controversial aspects up with the others early in the process** to avoid losing labor time if others decide to disallow them. **This includes non-Hermetic magic** — Vitkir, Muspelli, Amazons, the Augustan Brotherhood, Sorcerers of Soqotra, Folk Witches, Gruagach/Trollsynir/Kolduni, Elementalists, Learned Magicians, Nightwalkers, Storm Wizards, and Hunters' Arts are all real, playable traditions (Vitkir, Folk Witches, and Gruagach already have current PCs) — ask the GM how a specific tradition's own mechanics actually work before committing to it.
 
 3) Generally, trait synergies — i.e. features of a character that work together to empower them in a specific respect — are great. However, **point out and ask acceptance for significant synergies before fully statting out the character**. Others might wish to veto some such combinations, and you will be less disappointed if you haven't already invested time into the character. I would be inclined to accept most combinations that are not game-breakingly problematic, however.
 

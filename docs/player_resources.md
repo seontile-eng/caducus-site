@@ -7,7 +7,6 @@ parent: "Reference"
 
 # Caducus — Player Resources & Quick Reference
 
-*Source for the PINNED "Player Resources" forum post (separate from the Chronicle/Status post) AND this same content is published verbatim to the covenant website — every link below must therefore be a real, resolvable absolute URL, never a `<…>` placeholder (a placeholder ships broken to the live site the moment this file is regenerated). Player-facing. The AI maintains this file; the GM posts/edits it on the forum and pins it. When something here changes, the post is refreshed (PACK_PlayerView reference-surface routine).*
 
 Welcome to Caducus. Everything you need is gathered here. **You can always just ask the AI-GM** anything — about the rules, the setting, the politics, or how any of this works; this post is for when you'd rather look it up.
 
@@ -17,7 +16,7 @@ Welcome to Caducus. Everything you need is gathered here. **You can always just 
 - **How Caducus Works (Player Primer)** — the ways this covenant differs from baseline Ars Magica (governance, the year, money & vis, the people). **Read this when you join.** → https://seontile-eng.github.io/caducus-site/docs/covenant_primer.html
 - **The Charter** — the full letter of the law. Long and dense; no need to read it through — ask the AI what it says about anything. → https://seontile-eng.github.io/caducus-site/docs/charter.html
 - **The covenant website** — the live numbers: treasury, vis, offices & budgets, library, laboratories, roster, plus all the documents above and the character pages, regenerated automatically. → https://seontile-eng.github.io/caducus-site/ *(Season planning happens on the forum: the **Covenant Planning** board.)*
-- **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → [Safety Tools](safety.html)
+- **Safety** — our lines & veils and the X-card. The saga engages hard themes (including slavery on the frontier); these tools are yours, use them. → https://seontile-eng.github.io/caducus-site/docs/safety.html
 
 ## Your character app
 
@@ -52,7 +51,7 @@ The forum is still where you *play*; the app is where you *manage* your magus. L
 
 **What is never hidden:** dice (all rolls are open), character sheets, rules questions and answers (open benefit everyone), and in-character actions in shared scenes — *even sneaky ones* (see the golden rule).
 
-**Practical notes:** a Discourse PM is a full thread — titled, threaded, multiple participants, people can be added later — so a long-running private strand works fine as one PM topic. **Two inboxes, two purposes:** PM **ArsBot** for the assistant — `!chat` starts a live session on the spot; anything else gets answered in the morning round. PM **Seon** (the GM) for human matters — absences, feedback, anything personal; the assistant cannot read that inbox. **The quiet word:** sometimes ArsBot will PM you mid-scene — "Quiet word — <scene>, post #N" — with something only *your* character noticed (a sharp Awareness roll, a Lore recognition). That information is yours: bring it into the open scene through your character's words and actions however you like. Reply to the PM if you want to ask follow-ups (it's the assistant's inbox — `!chat` for a live exchange).
+**Practical notes:** a Discourse PM is a full thread — titled, threaded, multiple participants, people can be added later — so a long-running private strand works fine as one PM topic. **Two inboxes, two purposes:** PM **ArsBot** for the assistant — `!chat` starts a live session on the spot; anything else is answered at the next of the two daily rounds (early morning, or late afternoon). PM **Seon** (the GM) for human matters — absences, feedback, anything personal; the assistant cannot read that inbox. **The quiet word:** sometimes ArsBot will PM you mid-scene — "Quiet word — <scene>, post #N" — with something only *your* character noticed (a sharp Awareness roll, a Lore recognition). That information is yours: bring it into the open scene through your character's words and actions however you like. Reply to the PM if you want to ask follow-ups (it's the assistant's inbox — `!chat` for a live exchange).
 
 ## Also worth knowing (full detail in the Primer)
 - **Offices:** the Pontifex (Aurelius) + six body-part officers (Forehead/Heart/Stomach/Groin/Hand/Foot). You'll be offered one early; running its yearly project is part of play.

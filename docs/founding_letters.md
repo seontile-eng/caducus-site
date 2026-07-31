@@ -7,7 +7,7 @@ parent: "Reference"
 
 # The Founding Letters of Caducus
 
-*Player-facing required reading. The three letters every prospective peregrinator of Caducus received in 1218 — Aurelius's invitation, Lucilla's rebuttal, and Aurelius's letter of acceptance and logistics. They are in-character documents: Aurelius is recruiting, Lucilla is agitating, and both are writing two years before the covenant exists. Read them for the saga's premise, its politics, and the offer on the table — and bring your questions to the GM.*
+*The three letters every prospective peregrinator of Caducus received in 1218 — Aurelius's invitation, Lucilla's rebuttal, and Aurelius's letter of acceptance and logistics. They are in-character documents: Aurelius is recruiting, Lucilla is agitating, and both are writing two years before the covenant exists. Read them for the saga's premise, its politics, and the offer on the table — and bring your questions to the GM.*
 
 ---
 

@@ -48,6 +48,10 @@ A starting draft, confirmed and amended by the table at session zero:
   in-character bigotry of the period. Allowed, but flagged and checked before a scene goes there.
 - **Lines**: set by the table — an unstated line is still a line the moment someone names it.
 
+## On combat and character death
+
+Combat is resolved for real, not narrated freely — but **a PC's death is never silently finalized.** A fatal wound, in or out of combat, flags for the GM to acknowledge before it's treated as final, rather than simply ending your character mid-scene with no chance to react. If you have thoughts on how a near-death or death scene for your own character should be handled, that's exactly the kind of thing to raise with the GM ahead of time.
+
 ## Setting or changing your own limits
 
 Your personal limits are captured when you join and can be added to or changed at any time — a
